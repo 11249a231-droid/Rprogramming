@@ -10,7 +10,7 @@ name
 cgpa
 pass
 
-1.6
+1.2
 Employee Salary Record
 R program:
 emp_id <- 1064
@@ -22,7 +22,7 @@ salary
 department
 is_permanent
 
-2.6
+1.3
 Online Shopping Cart
 R program:
 product_name <- "Moblie"
@@ -34,7 +34,7 @@ price
 stock_available
 discount_eligible
 
-7.9
+1.4
 Weather Monitoring System
 R program:
 city <- "Hyderabad"
@@ -46,7 +46,7 @@ temperature
 rain
 wind_speed
 
-1.8
+1.5
 Examination Result Processing
 R program:
 subject <- "Social"
@@ -58,7 +58,7 @@ total_marks
 marks_obtained
 result
 
-9.0
+1.6
 Banking Application
 R program:
 account_no <- 42412346
@@ -70,7 +70,7 @@ holder_name
 balance
 account_active
 
-1.8
+1.7
 Movie Rating System
 R program:
 movie_title <- "SALAAR"
@@ -82,7 +82,7 @@ rating
 reviews
 available
 
-3.5
+1.8
 Traﬃc Monitoring System
 R program:
 vehicle_count <- 240
